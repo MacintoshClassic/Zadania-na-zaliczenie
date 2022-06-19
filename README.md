@@ -1,2 +1,1 @@
-# Zadania-na-zaliczenie
-# Oleksandr Shevchenko, 19212, C1
+Oleksandr Shevchenko, 19212, C1
